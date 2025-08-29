@@ -1,3 +1,12 @@
+# Nikhil Jain's First CS193 Homework
+
+## Things I like about CS193
+- It's a really chill class to take a breather in after a long day of college
+- The lecturers were really nice and engaging(Chaganti, Pranavi and Prabhakaran, Jagannath)
+- The lecture hall has foldable tables(Didn't realize I would be happy about such a small thing but here we are)
+- I made a close friend from CS193 which is awesome
+- I'm happy to learn these CS tools early on so future CS classes aren't as bad
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -20,8 +29,6 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-
-Nikhil has viewed this website and so far things work well
 
 **Bold** and _Italic_ and `Code` text
 
